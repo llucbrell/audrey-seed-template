@@ -3,7 +3,7 @@
 ## Clone this repository with git
 
 ```js
-$ git clone https://github.com/llucbrell/audrey-seed.git
+$ git clone https://github.com/llucbrell/audrey-seed-template.git
 ```
 ## Write
 
