@@ -27,13 +27,13 @@ process.exit()
 ```
 at the end of your operations, to return the control to audrey-two. Rem ember to use x in the taggy for testing and of course to tell to your users that it's a scion.
 
+## Test it
+
+Now I'm working in a set of test for seeds. It will be ready soon.
+
 ## License
 
 Put a license on your adurey-seed.
-
-## Test it
-
-Now I'm working in a set of test for seeds. It will be release soon.
 
 ## Publish
 
