@@ -27,6 +27,14 @@ process.exit()
 ```
 at the end of your operations, to return the control to audrey-two. Rem ember to use x in the taggy for testing and of course to tell to your users that it's a scion.
 
+## License
+
+Put a license on your adurey-seed.
+
+## Test it
+
+Now I'm working in a set of test for seeds. It will be release soon.
+
 ## Publish
 
 You can store, share, eat, replant, burn or whatever you want with your seeds. There is no limits. Of course, if you want, you can publish into npm or any other place. And if you want you can show me your work, I've be deligthed to hear about your work.
